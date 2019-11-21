@@ -4,11 +4,11 @@ It is ocassionally helpful for us to refer to the [Income Limits set by the U.S.
 
 These income limit tables are formatted with each income level categories as rows and family size as columns. The following example is from King County, WA 2018:
 
-|  Income level  |   1    |    2   |    3   |    4   |    5   |    6   |    7   |    8   |
-|----------------|--------|--------|--------|--------|--------|--------|--------|--------|
-| Very Low       | 37,450 | 42,800 | 48,150 | 53,500 | 57,800 | 62,100 | 66,350 | 70,650 |
-| Extremely Low  | 22,500 | 25,700 | 28,900 | 32,100 | 34,700 | 37,250 | 39,850 | 42,400 |
-| Low            | 56,200 | 64,200 | 72,250 | 80,250 | 86,700 | 93,100 | 99,550 | 105,950|
+|  Income level  |   1   |   2   |   3   |   4   |   5   |   6   |   7   |   8   |
+|----------------|-------|-------|-------|-------|-------|-------|-------|-------|
+| Very Low       | 37450 | 42800 | 48150 | 53500 | 57800 | 62100 | 66350 | 70650 |
+| Extremely Low  | 22500 | 25700 | 28900 | 32100 | 34700 | 37250 | 39850 | 42400 |
+| Low            | 56200 | 64200 | 72250 | 80250 | 86700 | 93100 | 99550 | 105950|
 
 
 Due to the way some internal systems are set up, we need the tables in a format with each income level cap as a row, and family size as columns. The same example, truncated: 
